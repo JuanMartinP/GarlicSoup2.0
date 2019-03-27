@@ -1,3 +1,11 @@
+/**
+ * @file ejercicio4.c
+ * @author Juan Martin Pinilla (juan.martinp@estudiante.uam.es)
+ * @author David Palomo Marcos (david.palomo@estudiante.uam.es)
+ * Grupo: 2212
+ * @date 27 Mar 2019
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
