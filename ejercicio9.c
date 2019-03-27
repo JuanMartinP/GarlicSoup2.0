@@ -110,7 +110,7 @@ int main() {
 	for (i=0; i<N_PROC; i++){
 		printf("Proceso %d: %d escrituras\n", i, contador[i]);
 	}
-	printf("\nHa GANADO el %d!! Escribio %d veces\n", ganador, contador[ganador]);
+	printf("\nHa GANADO el %d!!\n", ganador);
   /* El padre espera a que todos sus hijos finalicen */
   for (i = 0; i < N_PROC; i++)
     wait(NULL);
